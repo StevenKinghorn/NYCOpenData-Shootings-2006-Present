@@ -1,0 +1,3 @@
+Weather data located: https://www.ncei.noaa.gov/access/past-weather/New%20York 
+weather readings taken from JFK international airport, NY US (USW00094789)
+Dataset: ncei_noaa_weather_JFK_international_airport.csv
